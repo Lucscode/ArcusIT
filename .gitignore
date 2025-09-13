@@ -1,5 +1,6 @@
 # Arquivos de configuração sensíveis
 config.js
+config.example.js
 
 # Arquivos de teste
 teste-*.html
