@@ -2,6 +2,9 @@
 config.js
 config.example.js
 
+# Pasta de clientes (imagens sensíveis)
+Clientes/
+
 # Arquivos de teste
 teste-*.html
 teste-*.js
