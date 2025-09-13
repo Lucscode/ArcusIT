@@ -304,7 +304,7 @@ body {
 }
 
 .arcus-logo {
-    max-width: 250px;
+    max-width: 300px;
     height: auto;
     filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
     transition: all 0.3s ease;
@@ -881,7 +881,7 @@ body {
     
     /* Logo da Arcus responsiva */
     .arcus-logo {
-        max-width: 200px;
+        max-width: 250px;
     }
 }
 
